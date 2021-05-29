@@ -1,0 +1,7 @@
+{
+	"twilio": {
+		"sid": "YOUR_SID",
+		"token": "YOUR_TOKEN",
+		"phone": "TWILIO_PHONE_NO"
+	}
+}
