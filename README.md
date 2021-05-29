@@ -16,7 +16,7 @@ php cowin.php --pc='{pincode}' --phone='+91999xxxxxxx' --dose='2'
 ```
 
 ```bash
-curl 'https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByPin?pincode=700014&date=21-05-2021' \
+curl 'https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByPin?pincode=124001&date=21-05-2021' \
   -H 'authority: cdn-api.co-vin.in' \
   -H 'sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="90", "Google Chrome";v="90"' \
   -H 'accept: application/json, text/plain, */*' \
